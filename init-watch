@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+babel --presets react --watch src/ --out-dir lib/
+
